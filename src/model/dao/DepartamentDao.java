@@ -1,4 +1,4 @@
-package model.dao;
+package model.dao;  //botão direito no src/ new/ interface
 
 import java.util.List;
 
